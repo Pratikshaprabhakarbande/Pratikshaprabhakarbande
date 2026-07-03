@@ -69,6 +69,6 @@ Welcome to my digital portfolio! I am a B.E. student specializing in IoT, Cybers
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratikshaprabhakarbande&show_icons=true&theme=dracula&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshaprabhakarbande&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratikshaprabhakarbande&show_icons=true&theme=dracula&hide_border=true&v=1" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshaprabhakarbande&layout=compact&theme=dracula&hide_border=true&v=1" height="165" alt="Top Languages"/>
 </div>
