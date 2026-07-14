@@ -317,21 +317,10 @@ Use the interactive drop-down card below to view my full list of security and in
 ## 10. GitHub Analytics Section
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Pratikshaprabhakarbande&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratikshaprabhakarbande&amp;theme=tokyonight" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshaprabhakarbande&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratikshaprabhakarbande&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratikshaprabhakarbande&theme=tokyonight" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshaprabhakarbande&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -339,9 +328,8 @@ Use the interactive drop-down card below to view my full list of security and in
 ## 11. GitHub Trophies Section
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratikshaprabhakarbande&amp;theme=onedark&amp;column=7&amp;margin-w=15&amp;margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pratikshaprabhakarbande&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-
 ## 12. Contribution Activity Section
 
 <div align="center">
