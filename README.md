@@ -317,10 +317,14 @@ Use the interactive drop-down card below to view my full list of security and in
 ## 10. GitHub Analytics Section
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratikshaprabhakarbande&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratikshaprabhakarbande&theme=tokyonight" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshaprabhakarbande&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratikshaprabhakarbande&show_icons=true&theme=tokyonight)](https://github.com/Pratikshaprabhakarbande)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratikshaprabhakarbande&theme=tokyonight)](https://github.com/Pratikshaprabhakarbande)
+
+<br><br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshaprabhakarbande&layout=compact&theme=tokyonight)](https://github.com/Pratikshaprabhakarbande)
+
 </div>
 
 ---
@@ -328,16 +332,10 @@ Use the interactive drop-down card below to view my full list of security and in
 ## 11. GitHub Trophies Section
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratikshaprabhakarbande&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pratikshaprabhakarbande&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/Pratikshaprabhakarbande)
+
 </div>
-## 12. Contribution Activity Section
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratikshaprabhakarbande&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
 ## 13. Contribution Snake Section
 
 <div align="center">
